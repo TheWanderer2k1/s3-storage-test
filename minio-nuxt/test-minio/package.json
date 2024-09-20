@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "minio": "^8.0.1",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
